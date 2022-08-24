@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: MSc Applied Statistics 
-      institution: Massachusetts Institute of Technology
+      institution: Xi'an Jiaotong-Liverpool University
       year: Present 
     - course: BEc in Finance
       institution: Jilin University (Zhuhai)
